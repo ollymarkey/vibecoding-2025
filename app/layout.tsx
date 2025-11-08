@@ -7,8 +7,8 @@ import { ClerkProvider } from "@clerk/nextjs";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "My App Title",
-  description: "My app description",
+  title: "TaskAI - AI-Powered To-Do Application",
+  description: "Transform your productivity with AI-powered task management. Smart prioritization, natural language input, and intelligent scheduling.",
 };
 
 export default function RootLayout({
